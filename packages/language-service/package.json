@@ -38,7 +38,7 @@
     "@types/estree": "^1.0.0",
     "@types/mdast": "^4.0.0",
     "@types/unist": "^3.0.0",
-    "@volar/language-service": "2.4.11",
+    "@volar/language-service": "2.4.10",
     "estree-util-scope": "^1.0.0",
     "estree-walker": "^3.0.0",
     "mdast-util-mdxjs-esm": "^2.0.0",
