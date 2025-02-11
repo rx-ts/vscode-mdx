@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "@mdx-js/language-service": "0.6.2",
-    "@volar/language-server": "~2.4.0",
+    "@volar/language-server": "2.4.11",
     "load-plugin": "^6.0.0",
     "remark-frontmatter": "^5.0.0",
     "remark-gfm": "^4.0.0",
@@ -41,7 +41,7 @@
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
-    "@volar/test-utils": "~2.4.0",
+    "@volar/test-utils": "2.4.11",
     "unified": "^11.0.0",
     "vscode-uri": "^3.0.0"
   }

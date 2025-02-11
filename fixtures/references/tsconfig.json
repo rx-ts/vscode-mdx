@@ -1,0 +1,13 @@
+{
+  "exclude": ["fixtures", "lib"],
+  "references": [{"path": "./tsconfig.build.json"}],
+  "compilerOptions": {
+    "checkJs": true,
+    "lib": ["es2022"],
+    "module": "node16",
+    "noEmit": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "types": []
+  }
+}

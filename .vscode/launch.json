@@ -14,13 +14,13 @@
         "--skip-release-notes",
         "--skip-welcome",
         "--extensionDevelopmentPath=${workspaceFolder}/packages/vscode-mdx",
-        "${workspaceFolder}/fixtures/fixtures.code-workspace"
+        "${workspaceFolder}/fixtures/references"
       ],
       "env": {
         "NODE_OPTIONS": "--enable-source-maps"
       },
       "outFiles": ["${workspaceFolder}/packages/vscode-mdx/out/**/*.js"],
-      "skipFiles": ["<node_internals>/**", "**/typescript/**"],
+      "skipFiles": ["<node_internals>/**"],
       "preLaunchTask": "build"
     }
   ]
